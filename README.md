@@ -1,4 +1,5 @@
 # Distributionally Robust Fair Empirical Risk Minimization (DR-FERMI)
+DR-FERMI is a distributionally robust stochastic optimization framework for handling distribution shifts in fair empirical risk minimization tasks. The distribution shift happens when the distribution of the test data (target domain) is different from the distribution of the training data (source domain).
 
 ## Issues with Conventional Algorithmic Fairness Approaches 
 A common assumption of algorithmic fariness approaches is that the training data has exactly the same distribution as test data. Such assumption might not hold
