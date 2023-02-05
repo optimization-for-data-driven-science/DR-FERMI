@@ -1,4 +1,4 @@
-# Distributionally Robust Fair Empirical Risk Minimization
+# Distributionally Robust Fair Empirical Risk Minimization (DR-FERMI)
 
 ## Issues with Conventional Algorithmic Fairness Approaches 
 A common assumption of algorithmic fariness approaches is that the training data has exactly the same distribution as test data. Such assumption might not hold
