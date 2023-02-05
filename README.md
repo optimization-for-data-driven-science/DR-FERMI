@@ -10,4 +10,4 @@ The Fair Empirical Risk Minimization with Exponential Renyi Mutual Information (
 To handle distribution shifts with respect to the fairness measure, we define the uncertainty set over the matrix Q using Lp norms:
 
 ## Experiments on ACS Data
-The implementation of DR-FERMI on the ACS Data for L1 and L2 norms are avalable at DR-FERMI_ACS **Data.ipynb** notebook.
+The implementation of DR-FERMI on the ACS Data for L1 and L2 norms are avalable at **DR-FERMI_ACS Data.ipynb** notebook.
