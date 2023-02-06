@@ -12,4 +12,5 @@ Where the uncertainty set over the matrix Q is defined as Lp balls around the em
 ![alt text](https://github.com/optimization-for-data-driven-science/DR-FERMI/blob/main/USet.png)
 
 ## Experiments on ACS Data
-The implementation of DR-FERMI on the ACS Data for L1 and L2 norms are avalable at **DR-FERMI_ACS Data.ipynb** notebook.
+The implementation of DR-FERMI on the ACS Data for L1 and L2 norms are avalable at **DR-FERMI_ACS Data.ipynb** notebook. One can consider each one of the US states as the training data and learn the fair model on that dataset. The evaluation will be done at each 10 epochs on all states. The results on 4 different datasets as the training data is depicted below. For more experiments and plots please see the paper.
+![alt text](https://github.com/optimization-for-data-driven-science/DR-FERMI/blob/main/States.png)
