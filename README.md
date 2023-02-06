@@ -6,6 +6,7 @@ A common assumption of algorithmic fairness approaches is that the training data
 
 ## Distribtuionally Robust Formulation of Fair Empirical Risk Minimization
 The Fair Empirical Risk Minimization with Exponential Renyi Mutual Information (ERMI) as the measure of fairness violation seeks to optimize the following problem:
+![alt text](https://github.com/optimization-for-data-driven-science/DR-FERMI/blob/main/DR_FERMI.png)
 
 To handle distribution shifts with respect to the fairness measure, we define the uncertainty set over the matrix Q using Lp norms:
 
